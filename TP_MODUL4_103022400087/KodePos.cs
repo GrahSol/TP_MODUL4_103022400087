@@ -5,7 +5,7 @@ public class KodePos
 {
     private Dictionary<string, string> tabelKodePos = new Dictionary<string, string>()
     {
-        {"Batuunggal", "40266"},
+        {"Batununggal", "40266"},
         {"Kujangsari", "40287"},
         {"Mengger", "40267"},
         {"Wates", "40256"},
